@@ -27,5 +27,5 @@ Pokemage é um jogo de RPG em linhas de comando, aonde você pode escolher uma d
 
 ---
 
-Feito com ♥ by:
+Feito com ♥ por:
 - https://github.com/ArthurCristiano
