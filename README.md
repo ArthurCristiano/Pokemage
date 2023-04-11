@@ -60,6 +60,16 @@ Pokemage é um jogo de RPG em linhas de comando, aonde você pode escolher uma d
 
 #### Buff Mago de Ar: Dano x2
 
+## Tabela de fraquenzas 
+
+|     Classe    |     Magia     |     Magia     |     Magia      |    Magia     |
+|---------------|:-------------:|:-------------:|---------------:|-------------:|
+|               | Magia de Fogo | Magia de Água | Magia de Terra | Magia de Ar  |
+| Boss de fogo  |      1/4      |      /2       |      Base      |      x2      |
+| Boss de Água  |       x2      |      1/4      |      Base      |      /2      |
+| Boss de Terra |     Base      |     Base      |       1/4      |    Base      |
+| Boss de Ar    |       /2      |      x2       |      Base      |     1/4      |   
+
 
 Feito com ♥ por:
 - https://github.com/ArthurCristiano
